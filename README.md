@@ -1,7 +1,6 @@
 ## Hi, I'm Mayuri 👋
 
 - 🚀 Currently building full-stack applications with React, Python, and FastAPI
-- 🧠 Practicing DSA and learning system design
 
 ## 🛠️ Tech Stack
 
